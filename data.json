@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "Campus Admin",
+      "email": "admin@scsp.edu",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ],
+  "attendance": [],
+  "fees": [],
+  "notices": [],
+  "books": [],
+  "issuedBooks": [],
+  "complaints": [],
+  "timetable": []
+}
