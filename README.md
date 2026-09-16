@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Student Campus Portal
 
 A full-stack campus portal for students, faculty and administrators. The project uses a dependency-free Node.js HTTP API and a responsive browser frontend, so it can be started without a build step.
@@ -54,3 +55,6 @@ Dedicated login pages are also available:
 - JSON persistence in `data.json` and bearer-token sessions
 
 The API lives in `server.js`; the browser application is in `public/app.js` and `public/styles.css`.
+=======
+# SCSP-SMART-CAMPUS-STUDENT-PORTAL-
+>>>>>>> 6321aca674d9dbde4c314b3b56f3f9da4f34d2c5
